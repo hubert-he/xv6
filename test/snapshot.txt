@@ -1,0 +1,344 @@
+ata0 master: Generic 1234 ATA-6 Hard-Disk (   4 MBytes)
+ata0  slave: Generic 1234 ATA-6 Hard-Disk (   0 MBytes)
+
+Press F12 for boot me
+Press F12 for boot menu.
+
+Booting from Hard Disk...
+main:21 --> end = 801126fc
+setupkvm:139
+kalloc:88 setupkvm 0 
+setupkvm:142
+setupkvm:146
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 allocproc 0 
+userinit:87
+setupkvm:139
+kalloc:88 setupkvm 0 
+setupkvm:142
+setupkvm:146
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:8
+8 walkpgdir 0 
+userinit:90
+kalloc:88 inituvm 0 
+kalloc:88 walkpgdir 0 
+userinit:92
+userinit:102
+userinit:105
+cpu0: starting
+setupkvm:139
+kalloc:88 setupkvm 0 
+setupkvm:142
+setupkvm:146
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:8
+8 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpg
+dir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 allocuvm 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 allocuvm 0 
+kalloc:88 allocuvm 0 
+init: starting sh
+kalloc:88 allocproc 0 
+setupkvm:139
+kalloc:88 setupkvm 0 
+setupkvm:142
+setupkvm:146
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 copyuvm 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 copyuvm 0 
+kalloc:88 copyuvm 0 
+setupkvm:139
+kalloc:88 setupkvm 0 
+setupkvm:142
+setupkvm:146
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 
+kalloc:88 walkpgdir 0 

@@ -1,0 +1,25 @@
+dir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+dir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 allocproc 0 ||userinit:87
+setupkvm:139
+kalloc:88 setupkvm 0 ||setupkvm:142
+setupkvm:146
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+dir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+dir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+dir 0 ||kalloc:88 walkpgdir 0 ||kir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+dir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+dir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||
+kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:8
+8 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpgdir 0 ||kalloc:88 walkpg
+

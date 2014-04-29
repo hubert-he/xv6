@@ -1,0 +1,66 @@
+(0) [0x0000fffffff0] f000:fff0 (unk. ctxt): jmp far f000:e05b	; ea5be000
+
+	[0x0000000fe05b] f000:e05b (unk. ctxt): xor ax, ax			; 31c0
+	[0x0000000fe05d] f000:e05d (unk. ctxt): out 0x0d, al		; e60d
+	[0x0000000fe05f] f000:e05f (unk. ctxt): out 0xda, al		; e6da
+	[0x0000000fe061] f000:e061 (unk. ctxt): mov al, 0xc0		; b0c0
+	[0x0000000fe063] f000:e063 (unk. ctxt): out 0xd6, al		; e6d6
+	[0x0000000fe065] f000:e065 (unk. ctxt): mov al, 0x00		; b000
+	[0x0000000fe067] f000:e067 (unk. ctxt): out 0xd4, al		; e6d4
+	[0x0000000fe069] f000:e069 (unk. ctxt): mov al, 0x0f		; b00f
+	[0x0000000fe06b] f000:e06b (unk. ctxt): out 0x70, al		; e670
+	[0x0000000fe06d] f000:e06d (unk. ctxt): in al, 0x71			; e471
+	[0x0000000fe06f] f000:e06f (unk. ctxt): mov bl, al			; 88c3
+	[0x0000000fe071] f000:e071 (unk. ctxt): mov al, 0x0f		; b00f
+	[0x0000000fe073] f000:e073 (unk. ctxt): out 0x70, al		; e670
+	[0x0000000fe075] f000:e075 (unk. ctxt): mov al, 0x00		; b000
+	[0x0000000fe077] f000:e077 (unk. ctxt): out 0x71, al		; e671
+	[0x0000000fe079] f000:e079 (unk. ctxt): mov al, bl			; 88d8
+	[0x0000000fe07b] f000:e07b (unk. ctxt): cmp al, 0x00		; 3c00
+	[0x0000000fe07d] f000:e07d (unk. ctxt): jz .+36 (0x000fe0a3); 7424
+	
+	[0x0000000fe0a3] f000:e0a3 (unk. ctxt): cli					; fa    <== ½øÈëbootasm.S
+	[0x0000000fe0a4] f000:e0a4 (unk. ctxt): mov ax, 0xfffe		; b8feff
+	[0x0000000fe0a7] f000:e0a7 (unk. ctxt): mov sp, ax			; 89c4
+	[0x0000000fe0a9] f000:e0a9 (unk. ctxt): xor ax, ax			; 31c0
+	[0x0000000fe0ab] f000:e0ab (unk. ctxt): mov ds, ax			; 8ed8
+	[0x0000000fe0ad] f000:e0ad (unk. ctxt): mov ss, ax			; 8ed0
+	
+	
+	
+
+	
+===================
+mov eax, 0xd88e0010
+mov es, ax
+mov ss, ax
+===================
+  movw    $(SEG_KDATA<<3), %ax    # Our data segment selector
+  movw    %ax, %ds                # -> DS: Data Segment
+  movw    %ax, %es                # -> ES: Extra Segment
+  movw    %ax, %ss                # -> SS: Stack Segment
+  movw    $0, %ax                 # Zero segments not ready for use
+  movw    %ax, %fs                # -> FS
+  movw    %ax, %gs                # -> GS
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
